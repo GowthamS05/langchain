@@ -2,7 +2,7 @@
 
 # Architecture
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ## 1. Code
 
@@ -36,7 +36,7 @@ The second AI finds the right solution from the company's help docs, and the thi
 
 Each step is simple, but together they create a much smarter system than a single LLM call could.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 
 ## 4. Router
@@ -45,7 +45,7 @@ Routers are like smart traffic cops for your AI. Instead of having a fixed path 
 
 Imagine a personal assistant bot: when you ask it something, it first figures out if you need help with scheduling, research, or calculations, then routes your request to the right tool or chain for the job.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 **Disadvantage:**
 
@@ -64,7 +64,7 @@ This involves features like:
 3. Advanced memory management
 4. Go back in history and explore better alternate paths
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ## Chain/Router vs Agent
 

@@ -8,11 +8,11 @@ It stands for reasing + acting
 
 **Observe:** Observe what happened
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 React Agents are flexible  and Any state is possible
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 
 **Disadvantages**
