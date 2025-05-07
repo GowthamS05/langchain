@@ -146,6 +146,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+mermaid.md
 
 # mypy
 .mypy_cache/
